@@ -1,4 +1,4 @@
-class User{
+class User {
     // properties, methods, constructor
     userName: string;
     age: number;
